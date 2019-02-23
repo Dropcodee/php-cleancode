@@ -1,0 +1,1 @@
+<script src="<?=$AssetsJsUrl?>/main.js"></script>
